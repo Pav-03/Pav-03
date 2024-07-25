@@ -14,6 +14,17 @@ Skills: Data Science, Machine Learning, Deep Learning, NLP, Git & Github, CI/CD,
 - 🌱 I’m currently learning exploring advanced LLMs and working on training GPT models. 
 - 📫 How to reach me: pmodi.ml.1203@gmail.com 
 
+I have technical experience and interest in:
+
+- Deep Learning
+- Machine Learning
+- Computer vision
+- Natural Language Processing
+- MLOps
+- Generative AI
+- Robotics
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pav-03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/pavan-modi-9b7765219/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pav-03)](https://github.com/anuraghazra/github-readme-stats)
