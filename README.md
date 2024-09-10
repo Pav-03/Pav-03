@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Pavan Modi
 ### Machine Learning Engineer
-![Machine Learning Engineer](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)
+![Machine Learning Engineer]([https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif))
 
 As a dedicated Machine Learning Engineer with a focus on Data Science, Machine Learning, Deep Learning, and Natural Language Processing, I specialise in developing innovative solutions using Python and advanced ML techniques. My expertise extends to Docker, Kubernetes, and CI/CD practices, ensuring robust and scalable deployments.
 
