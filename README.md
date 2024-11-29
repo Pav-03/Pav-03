@@ -12,8 +12,8 @@ I specialize in driving business impact through data-driven strategies and cutti
 
 Skills: Data Science, Machine Learning, Deep Learning, NLP, Git & Github, CI/CD, Docker, Kubernetes, AWS ( S3, EKS, Lambda, IAM), GCP, Azure, Terraform,
 
-- 🔭 I’m currently working on Financial Advisor ( MoneyMentor Bot ) 
-- 🌱 I’m currently learning Reinforcement Learning, Advance Computer Vision  
+- 🔭 I’m currently working on Tubentor (Start-Up) 
+- 🌱 I’m currently learning Reinforcement Learning, Optimization transfomer and Memory Utilization.
 - 📫 How to reach me: pmodi.ml.1203@gmail.com 
 
 
