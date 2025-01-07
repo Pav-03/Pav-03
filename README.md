@@ -12,8 +12,8 @@ I specialize in driving business impact through data-driven strategies and cutti
 
 Skills: Data Science, Machine Learning, Deep Learning, NLP, Git & Github, CI/CD, Docker, Kubernetes, AWS ( S3, EKS, Lambda, IAM), GCP, Azure, Terraform,
 
-- 🔭 I’m currently working on Tubentor (Start-Up) 
-- 🌱 I’m currently learning Reinforcement Learning, Optimization transfomer and Memory Utilization.
+- 🔭 I’m currently working on Two-Tower Recommendation System
+- 🌱 I’m currently learning Distributed and Parallel System, Multi-Model LLM and RAG.
 - 📫 How to reach me: pmodi.ml.1203@gmail.com 
 
 
