@@ -1,20 +1,53 @@
-### Hi there 👋,  I am Pavan Modi
-#### Machine Learning Engineer
-![Machine Learning Engineer](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+# Hi, I'm Pavan 👋
 
-I am a seasoned Machine Learning Engineer with expertise in architecting and deploying scalable ML and NLP solutions across cloud platforms like AWS, Azure, and GCP. At organizations such as Barclays, Digi-Soch, and Data Glacier, I have built and optimized machine learning models using TensorFlow, PyTorch, and scikit-learn, achieving measurable improvements in accuracy and efficiency.
+I'm a Machine Learning Engineer with ~3.5 years of experience taking models from notebooks into production systems.
 
-My cloud experience spans AWS (SageMaker, EKS, EC2), Azure (Azure ML, AKS, Cognitive Services), and GCP (AI Platform, BigQuery, GKE), where I design secure, scalable AI/ML pipelines. I automate cloud environments using tools like Terraform and AWS CloudFormation, ensuring robust infrastructures.
+I work mainly across:
 
-I prioritize security and compliance, utilizing AWS IAM, Azure AD, and Google Cloud IAM for access control and data protection. A key project I led drove a $1.4M revenue increase, improved customer retention by 25%, and reduced inventory costs by 18%. Additionally, I streamlined CI/CD pipelines using AWS CodePipeline, Azure DevOps, and GCP Cloud Build, cutting deployment times by 30% and boosting system reliability by 20%.
+- **NLP & LLMs** – summarisation, conversational understanding, retrieval-augmented generation (RAG)
+- **Recommendation Systems** – learning-to-rank, content and item recommendations
+- **MLOps & Production ML** – containerised services, CI/CD, monitoring, low-latency APIs in cloud environments (primarily AWS, some GCP)
 
-I specialize in driving business impact through data-driven strategies and cutting-edge cloud and machine learning technologies.
+I care about:
 
-Skills: Data Science, Machine Learning, Deep Learning, NLP, Git & Github, CI/CD, Docker, Kubernetes, AWS ( S3, EKS, Lambda, IAM), GCP, Azure, Terraform,
+- Building **reliable** ML systems: clear SLAs, observability, and predictable behaviour
+- Keeping things **practical**: simple architectures that are easy to debug, maintain, and iterate
+- Aligning models with **real product impact**: fraud reduction, better recommendations, faster decisions
 
-- 🔭 I’m currently working on Two-Tower Recommendation System
-- 🌱 I’m currently learning Distributed and Parallel System, Multi-Model LLM and RAG.
-- 📫 How to reach me: pmodi.ml.1203@gmail.com 
+---
+
+## 🔍 What you'll find here
+
+This GitHub contains **personal and demo projects** that reflect how I think about production ML.  
+All work is **anonymised, simplified, and independent** of any proprietary code or client data.
+
+Examples include:
+
+- LLM & NLP projects (e.g. conversational and document summarisation)
+  - implemented as small, deployable APIs using Docker and CI/CD patterns
+- Recommendation and ranking experiments
+  - focused on feature design, latency considerations, and caching strategies
+- Classic ML use cases (fraud-style detection, forecasting, etc.)
+  - built with clean structure, config-driven pipelines, and reproducible workflows
+
+The goal isn’t to open-source company code, but to show how I structure and ship ML systems end-to-end.
+
+---
+
+## 🛠️ Tech I use regularly
+
+- **Languages:** Python, SQL  
+- **ML:** scikit-learn, PyTorch, TensorFlow  
+- **NLP & LLMs:** Transformers, Sentence-BERT, summarisation, RAG  
+- **MLOps & Infra:** Docker, FastAPI, MLflow, Airflow, CI/CD (GitHub Actions), monitoring (Prometheus/Grafana), AWS (Lambda, API Gateway, ECS, S3), GCP (select services)  
+
+---
+
+## 📬 Contact
+
+- LinkedIn: [linkedin.com/in/pavanmachinelearning](https://www.linkedin.com/in/pavanmachinelearning)
+- Email: `pmodi.ml.1203@gmail.com`
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pav-03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/pavanmachinelearning/)  
